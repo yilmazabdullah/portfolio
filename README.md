@@ -1,2 +1,2 @@
 # portfolio
-portfolio-html cssçrneği
+portfolio-html css örneği
